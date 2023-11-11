@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Chào pà Trương nha',
+    introDesc: `Đã gần tròn 1 năm kể từ ngày ba chúng ta gặp nhau`,
+    btnIntro: 'Chính xác là zay gòi',
+    title: 'Thật sự trong suốt thời gian qua, tớ thật may mắn khi có các cậu chia sẻ 😙',
+    desc: 'Phải chăng đó là định mệnh đã sắp đặt để chúng ta cùng làm Tuyển sinh, khi ban đầu sự lựa chọn không phải Lý Hải ',
+    btnYes: 'Có Lý Hải thật sự rất dzui',
+    btnNo: 'Không, người nào cx được á',
+    question:'Trên thế giới hơn 7 tỉ người sao chúng ta lại gặp nhau, cảm ơn pà nhiều lắm, nêu cảm nhận cho tui với nha: <3',
+    btnReply: 'Gửi cho Lý Hải <3',
+    reply: 'Lý Hải hiền lành, tốt bụng đáng yêu lắm á, iu',
+    mess: 'Hải biết mà 🥰. Gửi lời xin lỗi đến pà những lúc tui hay cà rỡn 😘😘',
+    messDesc: 'Chúng ta hãy tiếp tục vui như thế nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://drive.google.com/file/d/1wu7xwYT4XFdMlh9v0WMfb9JcBNP-I9EI/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
