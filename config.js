@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Chào pà Trương nha',
+    introTitle: 'Chào pà Trương nha!!!',
     introDesc: `Đã gần tròn 1 năm kể từ ngày ba chúng ta gặp nhau`,
     btnIntro: 'Chính xác là zay gòi',
     title: 'Thật sự trong suốt thời gian qua, tớ thật may mắn khi có các cậu chia sẻ 😙',
